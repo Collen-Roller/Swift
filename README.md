@@ -1,9 +1,22 @@
-Various projects and applications made in Swift
+#Swift
 
-Fun Facts - Displays a array of facts that is read in from a file
-          - Changes colors every time the button is pressed
+A repository dedicated to various ios applications i've written in swift
 
-Stormy    - Weather Application for Potsdam NY,
-          - Supports concurrency in Swift, and proper network protocals.
-          - Weather info is JSON data retrieved from forcast.developer.io
-          - Eventually would like to implement changing the location
+##Fun Facts 
+
+Random fact app, intended to teach entry level swift concepts to beginners.
+This was the first ios app I made. It uses an array of "FunFacts" and will display
+a new fact everytime a button is selected.
+
+##Stormy
+
+Basic Weather Application for Potsdam NY
+Shows user the temperate, humidity, and a nice looking image depicting the current weather state.
+Supports concurrency in Swift, and proper network protocals.
+Weather info is JSON data retrieved from forcast.developer.io
+
+##Accreditation
+
+Written by [Collen Roller][1]
+
+[1]: https://github.com/collen-roller
