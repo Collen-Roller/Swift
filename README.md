@@ -15,6 +15,14 @@ Shows user the temperate, humidity, and a nice looking image depicting the curre
 Supports concurrency in Swift, and proper network protocals.
 Weather info is JSON data retrieved from forcast.developer.io
 
+##Tic Tac Tie
+
+Simple Tic Tac Toe application. The appliation uses two main screens, a title screen which
+allows users to choose a game mode, and a AI mode which allows users to play against the
+computer. The AI uses the Minimax algorithm which I implemented in Swift. The application is
+basic and does not include any detailed animations. Once a player has won, the user can replay
+or quit to the start screen.
+
 ##Accreditation
 
 Written by [Collen Roller][1]
